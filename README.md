@@ -16,6 +16,8 @@ GetDataProject
 ### Requirements:
    The content of https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip is unzipped 
    in .\\getdata_projectfiles_UCI HAR Dataset\\ directory
+### Procedures
+	Run run_analysis.R 
 ### Outputs:
    The average of each variable for each activity and each subject will be stored as
-   .\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset\\activity_data.csv
+   .\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset\\activity_data.txt
